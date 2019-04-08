@@ -34,10 +34,6 @@ addvalor();
 */
 "O valor da variável agora é 12"
 */
-<<<<<<< HEAD
-
-=======
->>>>>>> 05d44e00fd0aa5148a0be19fd20344bff9188fc7
 
 /*
 Crie uma função com as seguintes características:
@@ -53,10 +49,6 @@ function operacoes( a, b, c) {
      return (a * b * c) + 2; 
   }
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 05d44e00fd0aa5148a0be19fd20344bff9188fc7
 
 // Invoque a função criada acima, passando só dois números como argumento.
 operacoes( 5, 3);
@@ -94,10 +86,6 @@ function complex(a, b, c){
 }
 
 // Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
-<<<<<<< HEAD
-=======
-?
->>>>>>> 05d44e00fd0aa5148a0be19fd20344bff9188fc7
 /* complex()
 "False"
 */
@@ -116,7 +104,4 @@ complex(2,4)
 complex(2, 4, 2)
 3
 */
-<<<<<<< HEAD
 ```
-=======
->>>>>>> 05d44e00fd0aa5148a0be19fd20344bff9188fc7
